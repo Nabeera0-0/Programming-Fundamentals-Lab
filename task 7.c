@@ -10,7 +10,6 @@ int main() {
     scanf("%f", &num3);
     sum=num1+num2+num3;
     avg=sum/3;
-    printf("Sum is %f\n", sum);
     printf("Average is %f\n", avg);
 
     return 0 ;
